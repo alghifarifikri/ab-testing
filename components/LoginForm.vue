@@ -26,6 +26,7 @@ export default {
       console.log("Username:", this.username);
       console.log("Password:", this.password);
       // Implement authentication logic if needed
+      alert('Hola', this.username)
     },
   },
 };
